@@ -19,13 +19,13 @@ As for what my interests are, feel free to check out my X! Many of you will be f
 
 # Socials
 
-X: https://x.com/olliebwun
+[X](https://x.com/olliebwun)
 
-YouTube: https://www.youtube.com/@olliebwun
+[YouTube](https://www.youtube.com/@olliebwun)
 
-Steam: https://steamcommunity.com/id/olliebwun/
+[Steam](https://steamcommunity.com/id/olliebwun/)
 
-Discord: Coming Soon...
+[Discord] Coming Soon...
 
-My Viscose Benchmark Sheet: Coming Soon...
+[My Viscose Benchmark Sheet] Coming Soon...
 
