@@ -1,7 +1,9 @@
 <style>
   .markdown-body img {
+    max-width: 100%;
     max-height: 65vh;
     width: auto;
+    height: auto !important;
     display: block;
     margin: 0 auto;
   }
